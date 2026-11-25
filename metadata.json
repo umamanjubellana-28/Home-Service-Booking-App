@@ -1,0 +1,6 @@
+{
+  "name": "HomeCare Services",
+  "description": "A clean frontend-only Home Services Booking Application built with React, Vite, and Local Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
